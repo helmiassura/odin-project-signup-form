@@ -8,7 +8,7 @@ A responsive sign-up form page created as part of [The Odin Project](https://www
 
 ## 🖼️ Preview
 
-![Sign-Up Form Preview](screenshot.png)
+![Sign-Up Form Preview](Preview.png)
 
 ## 🌟 Features
 
