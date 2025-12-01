@@ -36,7 +36,8 @@ odin-project-signup-form/
 │   ├── 📁 css/
 │   │   └── style.css              # Main stylesheet
 │   └── 📁 img/
-│       ├── halie-west-25xggax4bSA-unsplash.jpg  # Background image
+│       ├── halie-west-25xggax4bSA-unsplash.jpg 
+│       ├── halie-west-25xggax4bSA-unsplash.png  # Background image
 │       └── odin-lined.png         # Odin logo (optional local copy)
 │
 ├── 📄 index.html                  # Main HTML file
